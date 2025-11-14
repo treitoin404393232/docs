@@ -32,7 +32,6 @@
             "group": "Writing content",
             "pages": [
               "essentials/markdown",
-              "essentials/images",
               "essentials/reusable-snippets"
             ]
           },
